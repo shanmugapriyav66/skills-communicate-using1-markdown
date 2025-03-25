@@ -1,5 +1,4 @@
 <header>
-
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -36,12 +35,12 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ### Example
 
 ```md
-# This is an `<h1>` header, which is the largest
+<h1>This is an `<h1>` header, which is the largest</h1>
 
-## This is an `<h2>` header
+<h2> This is an `<h2>` header</h2>
 
-###### This is an `<h6>` header, which is the smallest
-```
+<h6> This is an `<h6>` header, which is the smallest </h6>
+
 
 #### How it looks
 
